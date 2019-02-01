@@ -1,4 +1,3 @@
-
 /*Se establece los estilos*/
 *{
     margin: 0px auto; /*Ajustar la propiedad width de un elemento block-level lo previene de estirarse hasta los bordes de su contenedor a la izquierda y derecha. Después puedes establecer la propiedad margin left y right para que sea auto y centrar de manera horizontal ese elemento en su contenedor. El elemento tomará el ancho que especificaste, después el espacio sobrante será dividido equitativamente entre los dos márgenes. */
