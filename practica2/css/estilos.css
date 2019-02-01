@@ -4,12 +4,10 @@
 }
 
 body {
-	background-color: #DCDCDC;  /* La propiedad de color de fondo establece el color de fondo de un elemento.*/
-  
+	background-color: #DCDCDC;  /* La propiedad de color de fondo establece el color de fondo de un elemento.*/  
 }
 
 h1 { /*definir encabezados HTML. */
-
 }
 
 img {
@@ -21,7 +19,6 @@ img {
 ul {
 	list-style: none; /*Establece algunas o todas las propiedades del marcador de los elementos de la lista */
     text-align: center; /*Establece la alineación del contenido de un elemento de bloque */
-
 }
 
 li {
@@ -44,8 +41,7 @@ p {
 }
 
 #text {
-    text-align: justify;
-  
+    text-align: justify;  
 }
 
 #text p {
@@ -55,10 +51,7 @@ p {
 	background-color: #C3C3E5;
 	text-indent: 40px; /*Establece la tabulación o indentación de la primera línea del texto de un elemento */
 	width: 90%; /* anchura*/
-	border:5px dashed black; /* altura*/
-	
-
-  
+	border:5px dashed black; /* altura*/	  
 }
 
 #text p:first-child {
@@ -90,19 +83,16 @@ p {
 #menu a{
 	text-decoration: none; /* Establece la decoración que se añade al texto de un elemento */
     color: #443266;
-
 }
 
 
 #menu li{
-
 }
 
 #menu li a:hover{
 	/*text-decoration: underline red;*/
 	border-bottom: #FF0000;
         border-bottom: 5px solid red;
-
 }
 
 #footer{   /* es la parte de abajo de la página */
@@ -117,7 +107,6 @@ p {
 	border-top: 5px solid black;
 	clear: both;*/
     margin-top: 10px;
-
 }
 
 #footer a{
@@ -131,9 +120,7 @@ p {
 #footer a:hover{
 	background-color: white;
 	color: #44326;
-	/*text-decoration: none;*/
-	
-
+	/*text-decoration: none;*/	
 }
 #image {
 	text-align: right;
@@ -146,7 +133,6 @@ p {
         text-align: center;
         margin-top: 20px;
     }
-
 }
 #menu {
     
